@@ -1,0 +1,11 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+
+# App data
+uploads/
+charts/
